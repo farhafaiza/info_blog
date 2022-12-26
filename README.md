@@ -7,7 +7,7 @@ Which have Features:
 2. Registration
 3. CRUD Operations (Blog App) [Also can upload an image for a post]
 Framework: Laravel 
-A Full description of the website has been described in the vedio:
+A Full description of the website has been described in the video:
 https://drive.google.com/file/d/1QDH0G5Hwl_voxXWN6yq2T6SsjrSBgE1e/view?usp=sharing
 ## Deployment
 
@@ -102,7 +102,7 @@ Creating guard:
 ## Acknowledgements
 
  - [Dashboard Templates](https://drive.google.com/file/d/1t293DeI19LvLuQlUBDLVesCZQjdnAtbb/view)
- - [Followed vedio](https://www.youtube.com/watch?v=7Q-mYjXEZTs&list=PLJfHaHU9dKhaA_QY2SH76u9GpF6WZnUx5&index=3)
+ - [Followed video](https://www.youtube.com/watch?v=7Q-mYjXEZTs&list=PLJfHaHU9dKhaA_QY2SH76u9GpF6WZnUx5&index=3)
 
 
 ## Tech Stack
